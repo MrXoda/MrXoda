@@ -55,7 +55,8 @@ I am a second-year student in computer technology and systems analysis at the AI
 <p align="center">
    <i>If you can imagine it, you can program it.</i>
    <br>
-<br>	
+<br>
+<a target="_blank" href="https://www.instagram.com/alejvndroe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a target="_blank" href="mailto:alejandroherreraortega12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/Alejand12749769"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
